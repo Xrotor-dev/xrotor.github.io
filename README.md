@@ -1,4 +1,4 @@
-Xcopter's Blog
+Xrotor's Blog
 
 ---
 ## 2026
